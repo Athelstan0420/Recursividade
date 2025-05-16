@@ -3,7 +3,7 @@
 
 - O que é RECURSÃO? Função que dentro da própria função você chama ela mesma; (Tipo uma boneca russa)
 
-- Comentários dentro de um comentário;
+- Ex. Comentários dentro de um comentário;
 
 - Utiliza uma lógica parecida com uma árvore;
 
