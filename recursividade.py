@@ -9,6 +9,8 @@
 
 - Arquivos utilizados: https://drive.google.com/drive/folders/1fnWf44Wcnq4pOmg7-lRr9ki-IFpbBwdE?usp=drive_link
 
+- É melhor utilizar recursão pq você não sabe quantas pastas ou arquivos vc vai ter dentro de uma pasta. Por isso não é melhor utilizar um loop;
+
 """
 #
 
