@@ -3,9 +3,10 @@
 ---------------------------------------------
 
 - Conceito de programação onde uma função chama a si mesma;
-- (utitlizando casos bases = condição que encerra a recursão);
+- Utitlizando casos bases = condição que encerra a recursão;
 - A função chama a si mesma com uma valor menor ou maior;
 
+---------------------------------------------
 # Exemplo de fatorial recursivo em python:
 
 	def fatorial(n):
