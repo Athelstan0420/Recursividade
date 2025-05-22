@@ -34,7 +34,7 @@
 
 ---------------------------------------------
 
-#Exemplo de soma de valor n até 0 recursivo em python:
+# Exemplo de soma de valor n até 0 recursivo em python:
 
 	def soma_n_ate_0(n):
 			
