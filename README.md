@@ -6,7 +6,15 @@
 - Utitlizando casos bases = condição que encerra a recursão;
 - A função chama a si mesma com uma valor menor ou maior;
 - Mecanismo básico para repetições nas linguagens funcionais;
-- 
+- Há um ou mais casos bases;
+- Há um ou mais casos recrusivos;
+
+- Estratégia recrusiva:
+  
+  	- Dividir o problema em problemas menores;
+  	- Dividir problemas menores em menores ainda;
+  	- Combina as soluções para formar a solução final;
+  	-  
 
 ---------------------------------------------
 # Exemplo de fatorial recursivo em python:
