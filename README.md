@@ -13,8 +13,8 @@
   
   	- Dividir o problema em problemas menores;
   	- Dividir problemas menores em menores ainda;
-  	- Combina as soluções para formar a solução final;
-  	-  
+  	- Combinar as soluções para formar a solução final;
+
 
 ---------------------------------------------
 # Exemplo de fatorial recursivo em python:
