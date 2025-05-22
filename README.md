@@ -7,7 +7,7 @@
 - A função chama a si mesma com uma valor menor ou maior;
 - Mecanismo básico para repetições nas linguagens funcionais;
 - Há um ou mais casos bases;
-- Há um ou mais casos recrusivos;
+- Há um ou mais casos recursivos;
 
 - Estratégia recursiva:
   
