@@ -5,6 +5,8 @@
 - Conceito de programação onde uma função chama a si mesma;
 - Utitlizando casos bases = condição que encerra a recursão;
 - A função chama a si mesma com uma valor menor ou maior;
+- Mecanismo básico para repetições nas linguagens funcionais;
+- 
 
 ---------------------------------------------
 # Exemplo de fatorial recursivo em python:
