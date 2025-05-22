@@ -48,3 +48,26 @@
 	print(soma_n_ate_0(num))
 
 ---------------------------------------------
+
+---------------------------------------------
+
+# Ex.: Digite um numero e imprima todos os seus sucessores:
+
+	
+		def imprime(n):
+		    if n == 0:
+		        return 0
+		    elif n == 1:
+		        return 1 
+		    return f"{n}" + " " + f"{imprime(n-1)}"
+		
+		num = int(input("Dig num: "))
+		print(imprime(num))
+		
+
+
+---------------------------------------------
+
+
+
+
