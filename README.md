@@ -9,7 +9,7 @@
 - Há um ou mais casos bases;
 - Há um ou mais casos recrusivos;
 
-- Estratégia recrusiva:
+- Estratégia recursiva:
   
   	- Dividir o problema em problemas menores;
   	- Dividir problemas menores em menores ainda;
